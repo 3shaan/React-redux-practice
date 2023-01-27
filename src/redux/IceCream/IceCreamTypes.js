@@ -1,0 +1,1 @@
+export const Buy_IceCram = "Buy_IceCram";
